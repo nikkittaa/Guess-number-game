@@ -33,23 +33,21 @@ This is a mini number guessing game built using React Native. The game consists 
    - Validates the entered number to ensure it falls within the specified range.
    - A "Confirm" button to proceed to the guessing phase.
      
-![Screenshot_1725196656](https://github.com/user-attachments/assets/881bdcf5-4f67-427c-bd53-d25a4a1eeed4)
-<img height = 400, src = "https://github.com/user-attachments/assets/881bdcf5-4f67-427c-bd53-d25a4a1eeed4"/>
-![Screenshot_1725196666](https://github.com/user-attachments/assets/a315e026-6838-43de-86c6-781f3583160e)
+<img height = 400, src = "https://github.com/user-attachments/assets/881bdcf5-4f67-427c-bd53-d25a4a1eeed4"/>      <img height = 400, src = "https://github.com/user-attachments/assets/a315e026-6838-43de-86c6-781f3583160e"/> 
 
 
 2. **Guessing Screen:**
    - Displays the app's current guess.
    - Provides buttons for the user to indicate whether the actual number is higher or lower than the guess.
    - Tracks the number of rounds it takes for the app to guess the correct number.
-     ![Screenshot_1725196679](https://github.com/user-attachments/assets/4530633a-ce74-48e4-9e43-15578c04dd4a)
+     <img height = 400, src = "https://github.com/user-attachments/assets/4530633a-ce74-48e4-9e43-15578c04dd4a"
 
 
 3. **Game Over Screen:**
    - Displays a message indicating that the game is over.
    - Shows the number of rounds it took for the app to guess the correct number.
    - Includes a button to restart the game.
-    ![Screenshot_1725196690](https://github.com/user-attachments/assets/4de3d00b-ae4a-4a3f-8bfc-4a76149e7568)
+     <img height = 400, src = "https://github.com/user-attachments/assets/4de3d00b-ae4a-4a3f-8bfc-4a76149e7568"
  
 
 ## Technologies Used
