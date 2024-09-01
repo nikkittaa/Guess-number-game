@@ -1,4 +1,4 @@
-![Screenshot_1725196690](https://github.com/user-attachments/assets/02e6630d-e0b2-4821-b984-714a235dd370)# Number Guessing Game
+# Number Guessing Game
 
 This is a mini number guessing game built using React Native. The game consists of three main screens: a start screen, a guessing screen, and a game over screen.
 
@@ -33,7 +33,7 @@ This is a mini number guessing game built using React Native. The game consists 
    - Validates the entered number to ensure it falls within the specified range.
    - A "Confirm" button to proceed to the guessing phase.
      
-![Screenshot_1725196656](https://github.com/user-attachments/assets/881bdcf5-4f67-427c-bd53-d25a4a1eeed4)
+![Screenshot_1725196656](https://github.com/user-attachments/assets/881bdcf5-4f67-427c-bd53-d25a4a1eeed4 {width=40px height=400px})
 ![Screenshot_1725196666](https://github.com/user-attachments/assets/a315e026-6838-43de-86c6-781f3583160e)
 
 
