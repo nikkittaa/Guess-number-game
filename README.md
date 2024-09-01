@@ -40,14 +40,16 @@ This is a mini number guessing game built using React Native. The game consists 
    - Displays the app's current guess.
    - Provides buttons for the user to indicate whether the actual number is higher or lower than the guess.
    - Tracks the number of rounds it takes for the app to guess the correct number.
-     <img height = 400, src = "https://github.com/user-attachments/assets/4530633a-ce74-48e4-9e43-15578c04dd4a"/>
+
+<img height = 400, src = "https://github.com/user-attachments/assets/4530633a-ce74-48e4-9e43-15578c04dd4a"/>
 
 
 3. **Game Over Screen:**
    - Displays a message indicating that the game is over.
    - Shows the number of rounds it took for the app to guess the correct number.
    - Includes a button to restart the game.
-     <img height = 400, src = "https://github.com/user-attachments/assets/4de3d00b-ae4a-4a3f-8bfc-4a76149e7568"/>
+
+<img height = 400, src = "https://github.com/user-attachments/assets/4de3d00b-ae4a-4a3f-8bfc-4a76149e7568"/>
  
 
 ## Technologies Used
